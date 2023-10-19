@@ -9,3 +9,5 @@ resources:
 images:
 - name: quay.io/quarkus-demo
   newTag: v1.0.1
+- name: quay.io/redhat-telco-adoption/quarkus-demo
+  newTag: v1.0.1
