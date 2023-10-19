@@ -5,4 +5,4 @@ resources:
 namespace: preview-11
 images:
 - name: quay.io/redhat-telco-adoption/quarkus-demo
-  newTag: f1b2c8acb9dc3977cfa7e6ba0e6959803e8a789c
+  newTag: 874dc40a8e91d3d6109392e5f31cb332c0de3bc9
