@@ -1,0 +1,8 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+resources:
+- ../../../base/
+namespace: preview-10
+images:
+- name: quay.io/redhat-telco-adoption/quarkus-demo
+  newTag: 748bd440f6feb57ecb841264ca472a93765a191d
