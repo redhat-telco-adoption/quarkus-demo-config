@@ -6,3 +6,6 @@ replicas:
   name: quarkus-demo
 resources:
 - ../../base/
+images:
+- name: quay.io/redhat-telco-adoption/quarkus-demo
+  newTag: v1.0.1
